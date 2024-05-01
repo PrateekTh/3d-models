@@ -46,5 +46,11 @@ The world background contains a procedural texture made using blender's shading 
   A lighthouse (under construction)
   ![lh](https://github.com/PrateekTh/3d-models/assets/57175545/9fe95d92-5632-491b-9367-e89732148a9f)
   
+- ### Little Ghost
+  Added a little ghost guy character. The standard ideal process was followed, and I tried to speed-make it, to get better at the general workflow.
+  
+![ghostguy](https://github.com/PrateekTh/3d-models/assets/57175545/cda19e47-08cb-47a8-8c16-362e6b4a0a31)
+
+<img src="https://github.com/PrateekTh/3d-models/assets/57175545/8414c66d-1b1a-42d4-9458-50ab79beb3bf" height ="400">
 
 I will eventually use these to create scenes/animations, and test out shaders I create in the shaders repository. This is the primary reason behind a low poly approach, since performance is the objective in this case.
