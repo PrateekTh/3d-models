@@ -58,5 +58,6 @@ The world background contains a procedural texture made using blender's shading 
 
  - ### Simple Brutalist Scene
   <img src="https://github.com/PrateekTh/3d-models/assets/57175545/a7b67762-e72c-4d1f-9de1-99535227fde5" height ="400">
+  
   Working on assets to build a brutalist architecture based scene, with stripped out monuments (Possibly in an isolated, post-apocalyptic type setting). I was inspired to work on this after listening to [this album](https://youtu.be/LwGkPZcsmH0?si=eTsYbCJFw7qw3FHC). Will make a unity scene out of them soon!
 I will eventually use these to create scenes/animations, and test out shaders I create in the shaders repository. This is the primary reason behind a low poly approach, since performance is the objective in this case.
